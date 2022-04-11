@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BLOG_HOST="http://guide-SW.com"
+BLOG_HOST="http://guide-SW.github.com"
 BLOG_TITLE="SW Team Guide"
 POSTS_PER_PAGE=8
 
