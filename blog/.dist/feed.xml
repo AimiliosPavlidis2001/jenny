@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>My Blog</title>
+  <link>http://mysiteoompaloompas.com</link>
+  <description></description>
+
+	<item>
+	<title>Hello World</title>
+  <link>http://mysiteoompaloompas.com/post/hello-world.html</link>
+	<description></description>
+	<pubDate>Mon, 11 Apr 2022 21:56:28 +0300</pubDate>
+</item>
+
+</channel>
+</rss>
