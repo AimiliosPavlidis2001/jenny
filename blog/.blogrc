@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-BLOG_HOST="http://mysiteoompaloompas.github.io"
-BLOG_TITLE="My Blog"
+BLOG_HOST="http://guide-SW.com"
+BLOG_TITLE="SW Team Guide"
 POSTS_PER_PAGE=8
 
 # This is your build directory
