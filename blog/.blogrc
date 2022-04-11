@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BLOG_HOST="http://mysiteoompaloompas.com"
+BLOG_HOST="http://mysiteoompaloompas.github.io"
 BLOG_TITLE="My Blog"
 POSTS_PER_PAGE=8
 
