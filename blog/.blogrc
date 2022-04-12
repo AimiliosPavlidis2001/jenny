@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-BLOG_HOST="https://visionary-gecko-43d827.netlify.app"
+BLOG_HOST="https://sw-guide.github.io"
 BLOG_TITLE="SW Team Guide"
 POSTS_PER_PAGE=8
 
